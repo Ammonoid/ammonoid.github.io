@@ -35,7 +35,11 @@ Selected Translations
 4. Emirbayer, M. 1997. "Manifesto for a Relational Sociology." _American Journal of Sociology_, 103(2): 281-317. (关系社会学宣言） [原文](https://mp.weixin.qq.com/s/a3jDPRIE8-Guiyh6idL37Q)
 5. Martin, J, L. 2009. "Social Action and Structures" in _Social Structures_ (社会结构), Princeton, NJ: Princeton University Press. （社会行动与结构） [原文](https://mp.weixin.qq.com/s/rgspB6g1Y_8rrg2A_z5APw)
 6. Korbel, J., Lindner, S., Pham, T., Hanel, R., et al. 2023. “Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework.” _Physical Review Letters_, 130:  057401. （自旋玻璃自组织框架下的同质社会群体构成） [原文](https://mp.weixin.qq.com/s/vmCaPcEG8tNJb0PBnzREpA) <br><br>
-我很希望翻译哈里森·怀特（Harrison White）的《身份与掌控：社会构成如何涌现》（_Identity and Control: How Social Formations Emerge_, Princeton University Press, 2008）以及约翰·列维·马丁（John Levi Martin）的《社会行动的解释》（_The Explanation of Social Action_, Oxford University Press, 2011）和《真善美：一种行动筑造的沉浮兴衰》（_The True, the Good, and the Beautiful: The Rise and Fall and Rise of an Architectonic for Action_, Columbia University Press, 2024），但缺乏实质动力。若有老师与出版社有意向合作，请与我联系。
+
+我很希望翻译如下著作，但缺乏实质动力（=ddl），若有老师与出版社有意向合作，请与我联系：
+1. 哈里森·怀特（Harrison White）《身份与掌控：社会构成如何涌现》（_Identity and Control: How Social Formations Emerge_, Princeton University Press, 2008）
+2. 约翰·列维·马丁（John Levi Martin）的《社会行动的解释》（_The Explanation of Social Action_, Oxford University Press, 2021）
+3. 约翰·列维·马丁《真善美：一种行动筑造的沉浮兴衰》（_The True, the Good, and the Beautiful: The Rise and Fall and Rise of an Architectonic for Action_, Columbia University Press, 2024）
 
 Education & Short-Term Sessions/Programs
 ------
