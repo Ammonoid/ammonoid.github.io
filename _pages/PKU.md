@@ -55,7 +55,7 @@ History and Social Science
 5. 社会语言学（Sociolinguistics）：叶文曦(中文系） <br>
 6. 中国社会史专题（Special Topics on Chinese Social History）：凌鹏 <br>
 7. 历史与政治研究专题（Seminar on History and Politics）：田耕/凌鹏/应星（清华大学）/孟庆延（中国政法大学） <br>
-8. 中共近代政治制度史研究（Study of Chinese Modern Political History）：张海荣 <br>
+8. 中国近代政治制度史研究（Study of Chinese Modern Political History）：张海荣 <br>
 9. 中国现代史研究（Contemporary Chinese History Studies）：黄道炫 <br>
 10. 中华人民共和国史专题研究（Studies in History of the PRC）：黄江军 <br>
 
