@@ -25,12 +25,14 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 ------
 1. 梁启超，2015，《饮冰室合集》，中华书局. <br>
 2. 梁启超，2022，《新民说》，文津出版社. <br>
-3. 約瑟夫-列文森，[1967]2023，《梁啟超與近代中國思想》，香港中文大學出版社.（Levenson, J, R. _Liang Ch'i-Ch'ao and the Mind of Modern China_. University of California Press） <br>
-4. 张灏，[1971]2022，《梁启超与中国思想的过渡（1890—1907）》，江苏人民出版社.（Zhang, C. _Liang Ch'i-ch'ao and Intellectual Transition in China, 1890-1907_. Harvard University Press） <br>
-5. 狭间直树，[1997]2012，《梁启超·明治日本·西方：日本京都大学人文科学研究所共同研究报告》，社会科学文献出版社.（狭間直樹，《共同研究 梁啓超：西洋近代思想受容と明治日本》，みすず書房） <br>
-6. 夏晓虹，2019，《政治与学术：阅读梁启超》，东方出版社.
+3. 梁启超，2020，《清代学术概论》，中华书局. <br>
+4. 丁文江等，2010，《梁任公先生年谱长编（初稿）》，中华书局. <br>
+5. 約瑟夫-列文森，[1967]2023，《梁啟超與近代中國思想》，香港中文大學出版社.（Levenson, J, R. _Liang Ch'i-Ch'ao and the Mind of Modern China_. University of California Press） <br>
+6. 张灏，[1971]2022，《梁启超与中国思想的过渡（1890—1907）》，江苏人民出版社.（Zhang, C. _Liang Ch'i-ch'ao and Intellectual Transition in China, 1890-1907_. Harvard University Press） <br>
+7. 狭间直树，[1997]2012，《梁启超·明治日本·西方：日本京都大学人文科学研究所共同研究报告》，社会科学文献出版社.（狭間直樹，《共同研究 梁啓超：西洋近代思想受容と明治日本》，みすず書房） <br>
+8. 夏晓虹，2019，《政治与学术：阅读梁启超》，东方出版社.
 
 
 Syllabus
 ======
-1. 组织社会学（Sociology of Organization）：服务于我的硕士毕业论文写作 [正文](/files/Sociology-of-Organization.pdf) <br>
+1. **组织社会学（Sociology of Organization）**：为了完成硕士毕业论文关于“组织”领域的文献梳理，我设计了这一Syllabus（希望找到教职时能用上）。它的初衷是超越被新制度主义束缚的组织研究，以最深刻的方式思考人类组织。所以，我从Arthur Stinchcombe的相对标准而经典的组织理论以及Niklas Luhmann更反直觉的“广义组织理论”出发，并引入一系列规范性哲学与法哲学对组织规范的根本性研究，最后回到更一般的生物与非生物组织当中，以提供组织研究的全景。 [正文](/files/Sociology-of-Organization.pdf) <br>
