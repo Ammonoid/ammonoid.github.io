@@ -45,15 +45,15 @@ redirect_from:
 
 我目前在北京大学社会学系攻读社会学硕士，我致力于结合神经生物学、深度学习与理论生态学等领域的智识资源展开社会理论发展与历史分析。我试图将Niklas Luhmann与Harrison White的理论视作一种新联结主义（Neo-Connectionism），以此反对布尔迪厄式的规范论，从而捍卫一种过程论的规范论（Processualist Normativism）。在广义行动理论方面，我试图将元伦理学领域的道德结构与John Levi Martin近年发展的工作对齐。我当前聚焦的历史经验分析是将中国共产党视作一个平凡组织（trivial organization），探讨该组织的社会起源。
 
-Research Interests
-======
+### Research Interests
+------
 · 社会理论（Social Theory） <br>
 · 广义行动理论（General Action Theory） <br>
 · 认知社会科学（Cognitive Social Science） <br>
 · 清季民初的社会转型（Social Transformation in Late Imperial and Early Republican China）
 
-Works in Progress
-======
+### Works in Progress
+------
 1. "State as Neural Networks" (《作为神经网络的国家》) <br>
 这篇Proposal源于2023年秋季学期国发院邢亦青老师《社会与经济网络》课程的课程作业（我从2022年开始思考将国家视作神经网络的问题）。我试图将中国国家治理结构建模为级联理性疏忽（Cascaded Rational Inattention）的图注意力网络（Graph Atttention Network），该模型具有深刻的本体论意义。并且在该模型下，我们可以将深度学习面临的可置信性问题转译到现代官僚体系当中。
 2. "Flowing in Lineages: Robert Brandom, Social Encoding, and Hallucinations." (《流淌于世系：布兰顿、社会编码与幻觉》)  <br>
