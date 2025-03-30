@@ -285,6 +285,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: syllabus
+    values:
+      layout: syllabus
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
