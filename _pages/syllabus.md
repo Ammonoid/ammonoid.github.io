@@ -27,7 +27,7 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 2. 梁启超，2022，《新民说》，文津出版社. <br>
 3. 約瑟夫-列文森，[1967]2023，《梁啟超與近代中國思想》，香港中文大學出版社.（Levenson, J, R. _Liang Ch'i-Ch'ao and the Mind of Modern China_. University of California Press） <br>
 4. 张灏，[1971]2022，《梁启超与中国思想的过渡（1890—1907）》，江苏人民出版社.（Zhang, C. _Liang Ch'i-ch'ao and Intellectual Transition in China, 1890-1907_. Harvard University Press） <br>
-5. 狭间直树，[1997]2012，《梁启超·明治日本·西方：日本京都大学人文科学研究所共同研究报告》，社会科学文献出版社.（狭間直樹，《共同研究 梁啓超：西洋近代思想受容と明治日本》，みすず書房） <br> <br>
+5. 狭间直树，[1997]2012，《梁启超·明治日本·西方：日本京都大学人文科学研究所共同研究报告》，社会科学文献出版社.（狭間直樹，《共同研究 梁啓超：西洋近代思想受容と明治日本》，みすず書房） <br>
 6. 夏晓虹，2019，《政治与学术：阅读梁启超》，东方出版社.
 
 
