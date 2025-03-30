@@ -11,9 +11,9 @@ redirect_from:
 
 Research Interests
 ======
-· 社会理论（Social Theory）
-· 广义行动理论（General Action Theory）
-· 认知社会科学（Cognitive Social Science）
+· 社会理论（Social Theory） <br>
+· 广义行动理论（General Action Theory） <br>
+· 认知社会科学（Cognitive Social Science） <br>
 · 清季民初的社会转型（Social Transformation in Late Imperial and Early Republican China）
 
 Works in Progress
