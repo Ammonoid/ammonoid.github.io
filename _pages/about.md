@@ -7,22 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-我目前就读于北京大学社会学系. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我目前在北京大学社会学系攻读社会学硕士，我致力于结合神经生物学、深度学习与理论生态学等领域的智识资源展开社会理论发展与历史分析。我试图将Niklas Luhmann与Harrison White的理论视作一种新联结主义（Neo-Connectionism），以此反对布尔迪厄式的规范论，从而捍卫一种过程论的规范论（Processualist Normativism）。在广义行动理论方面，我试图将元伦理学领域的道德结构与John Levi Martin近年发展的工作对齐。我当前聚焦的历史经验分析是将中国共产党视作一个平凡组织（trivial organization），探讨该组织的社会起源。
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+· 社会理论（Social Theory）
+· 广义行动理论（General Action Theory）
+· 认知社会科学（Cognitive Social Science）
+· 清季民初的社会转型（Social Transformation in Late Imperial and Early Republican China）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Works in Progress
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. "State as Neural Networks" (《作为神经网络的国家》)
+2. "Flowing in Lineages: Robert Brandom, Social Encoding, and Hallucinations." (《流淌于世系：布兰顿、社会编码与幻觉》)
+3. "Agency: From Temporal Populism to Aevum of Multiple Lineages" (《能动性：从时间民粹主义到多重世系的永世》)
+4. "Plasticity of Organization: The Growth of CCP (1919-1924)" (《组织可塑性：中国共产党的生长（1919-1924）》)
 
 Site-wide configuration
 ------
