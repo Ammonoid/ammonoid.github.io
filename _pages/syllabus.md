@@ -22,4 +22,4 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 
 Syllabus
 ------
-1. 组织社会学（Sociology of Organization）：服务于我的硕士毕业论文写作 [正文](/files/Sociology of Organization.pdf) <br>
+1. 组织社会学（Sociology of Organization）：服务于我的硕士毕业论文写作 [正文](/files/Sociology-of-Organization.pdf) <br>
