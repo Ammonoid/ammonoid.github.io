@@ -68,6 +68,7 @@ History and Social Science
 8. 中国近代政治制度史研究（Study of Chinese Modern Political History）：张海荣 <br>
 9. 中国现代史研究（Contemporary Chinese History Studies）：黄道炫 <br>
 10. 中华人民共和国史专题研究（Studies in History of the PRC）：黄江军 <br>
+11. 周氏兄弟研究（Zhou Brothers Research）：王风 <br>
 
 Evolution
 ------
