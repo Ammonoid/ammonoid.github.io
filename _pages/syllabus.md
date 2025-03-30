@@ -9,14 +9,20 @@ layout: single
 
 Plasticity of Organization: The Growth of CCP (1919-1924)
 ------
-我将持续更新我目前阅读的同光世至中共成立时的思想史与政治史书目：
+我将持续更新我目前阅读的同光世至中共成立时的思想史与政治史书目： <br>
+
 严复（1854-1921） <br>
+======
 1. 史华慈，[1964]2016，《寻求富强：严复与西方》，中信出版社.（Schwartz, B, _I. In Search of Wealth and Power: Yen Fu and the West_. Belknap Press） <br>
 2. 黃克武，2022，《開啟民智 會通中西：嚴復譯著與清末民初的思想變遷》，三聯書店（香港）有限公司. <br>
+
 康有为（1858-1927） <br>
+======
 1. 茅海建，2019，《从甲午到戊戌：康有为<我史>鉴注》，生活·读书·新知三联书店. <br>
 2. 王东杰，2025，《规划社会的来临：重读<大同书>》，生活·读书·新知三联书店. <br>
+
 梁启超（1873-1929） <br>
+======
 1. 梁启超，2015，《饮冰室合集》，中华书局. <br>
 2. 梁启超，2022，《新民说》，文津出版社. <br>
 3. 約瑟夫-列文森，[1967]2023，《梁啟超與近代中國思想》，香港中文大學出版社.（Levenson, J, R. _Liang Ch'i-Ch'ao and the Mind of Modern China_. University of California Press） <br>
