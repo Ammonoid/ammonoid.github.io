@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "haimeng.png"
   name             : "Ruiheng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Hello !"
+  bio              : "如果重复使我们患病，那么它也同样是治愈我们的东西。——吉尔·德勒兹"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
