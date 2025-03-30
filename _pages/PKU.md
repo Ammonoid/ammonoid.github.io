@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-我将在这个页面下更新我在北京大学参与过的课程以及课程感受与测评
+我将在这个页面下更新我在北京大学参与过的课程以及课程感受与测评（并非所有课程）
 
 Computer Science
 ------
