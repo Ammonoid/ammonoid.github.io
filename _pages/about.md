@@ -34,9 +34,9 @@ Selected Translations
 3. Emirbayer, M., Goodwin, J. 1994. "Network Analysis, Culture, and the Problem of Agency." _American Journal of Sociology_, 99(6):1411-1454. （网络分析、文化与能动性问题） [原文](https://mp.weixin.qq.com/s/CZUJhwQIQiy0f9-Zw-tw2g)
 4. Emirbayer, M. 1997. "Manifesto for a Relational Sociology." American Journal of Sociology, 103(2): 281-317. (关系社会学宣言） [原文](https://mp.weixin.qq.com/s/a3jDPRIE8-Guiyh6idL37Q)
 5. Martin, J, L. 2009. "Social Action and Structures" in _Social Structures_ (社会结构), Princeton, NJ: Princeton University Press. （社会行动与结构） [原文](https://mp.weixin.qq.com/s/rgspB6g1Y_8rrg2A_z5APw)
-6. Korbel, J., Lindner, S., Pham, T., Hanel, R., et al. 2023. “Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework.” Physical Review Letters, 130:  057401. （自旋玻璃自组织框架下的同质社会群体构成） [原文](https://mp.weixin.qq.com/s/vmCaPcEG8tNJb0PBnzREpA)
+6. Korbel, J., Lindner, S., Pham, T., Hanel, R., et al. 2023. “Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework.” _Physical Review Letters_, 130:  057401. （自旋玻璃自组织框架下的同质社会群体构成） [原文](https://mp.weixin.qq.com/s/vmCaPcEG8tNJb0PBnzREpA)
 
 Education & Short-Term Sessions/Programs
 ------
-我于2021年在对外经济贸易大学（University of International Business and Economics, UIBE）国际商学院获得管理学学士学位，我的本科毕业论文《会计可比性与稳健性的有用性及其披露成本分析：基于A股上市公司的经验证据》获得北京市优秀毕业论文；并于2023年起就读于北京大学社会学系。 <br>
+我于2021年在对外经济贸易大学（University of International Business and Economics, UIBE）国际商学院获得管理学学士学位，我的本科毕业论文《会计可比性与稳健性的有用性及其披露成本分析：基于A股上市公司的经验证据》获得北京市优秀毕业论文；并于2023年起就读于北京大学（Peking University）社会学系。 <br>
 我在2018年参与剑桥大学格顿学院（Girton College, University of Cambridge）的暑期项目，学习国际金融学；在2019年参加加州大学伯克利分校（University of California, Berkeley）的暑期学校，伯克利社会学系Dylan Riley教授讲授的《社会变革》（Social Changes）课程对我的影响很大，这门课教会我如何读书。
