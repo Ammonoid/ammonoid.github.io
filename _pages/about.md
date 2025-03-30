@@ -21,7 +21,7 @@ Works in Progress
 1. "State as Neural Networks." （作为神经网络的国家） <br>
 这篇Proposal源于2023年秋季学期国发院邢亦青老师《社会与经济网络》课程的课程作业（我从2022年开始思考将国家视作神经网络的问题）。我试图将中国国家治理结构建模为级联理性疏忽（Cascaded Rational Inattention）的图注意力网络（Graph Atttention Network），该模型具有深刻的本体论意义。并且在该模型下，我们可以将深度学习面临的可置信性问题转译到现代官僚体系当中。
 2. "Flowing in Lineages: Robert Brandom, Social Encoding, and Hallucinations." （流淌于世系：布兰顿、社会编码与幻觉） <br>
-这篇文章源于2024年春季学期哲学系李麒麟老师《语言哲学》课程的期末论文。我试图将一组我称之为社会编码理论的思想（来自Pierre Bourideu、Harrison White与Andrew Abbott）与Robert Brandom的推断主义进路并置，用Andrew Abbott的过程论批评Bourdieu与Brandom思想中共存的康德式规范论。最后，我通过这种过程论规范论为大语言模型的幻觉现象赋予了新的意义。
+这篇文章源于2024年春季学期哲学系李麒麟老师《语言哲学》课程的期末论文。我试图将一组我称之为社会编码理论的思想（来自Pierre Bourdieu、Harrison White与Andrew Abbott）与Robert Brandom的推断主义进路并置，用Andrew Abbott的过程论批评Bourdieu与Brandom思想中共存的康德式规范论。最后，我通过这种过程论规范论为大语言模型的幻觉现象赋予了新的意义。
 3. "Agency: From Temporal Populism to _Aevum_ of Multiple Lineages." （能动性：从时间民粹主义到多重世系的永世）  <br>
 这篇文章源于2024年秋季学期社会学系凌鹏老师《中国社会史专题》与李康老师《社会学理论》课程的期末论文。我综合了社会学（尤其是Margaret Archer, John Levi Martin, Stephen Vaisey与Issac Reed）和行动哲学（尤其是Michael Bratman与Michael Thompson）的能动性理论，并通过对Ernst Kantorowicz“永世”观念的创造性发挥，对现有能动性理论的时间性问题展开批判，提出一种看待能动性问题的新视角。
 4. "Plasticity of Organization: The Growth of CCP (1919-1924)." （组织可塑性：中国共产党的生长(1919-1924)） <br>
