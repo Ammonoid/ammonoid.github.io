@@ -9,7 +9,7 @@ layout: single
 
 Why Ammonoid ?
 ------
-The evolution of fractal-like, internal walls of ammonoid cephalopod shells represent one of the most clear evolutionary trends toward complexity in biology. [...] We hypothesize that the observed tendency is a driving force toward the evolution of the higher complexity of ammonoid septa, providing the animals with superior structural support and protection against predation. Resolving the adaptational value of this unique trait is vital to fully comprehend the intricate evolutionary trends between morphology, ecological shifts, and mass extinctions through Earth’s history. (Lemanis & Zlotnikov, 2023, Fractal-Like Geometry as an Evolutionary Response to Predation? _Science Advances_. 9,eadh0480. DOI:10.1126/sciadv.adh0480) <br>
+The evolution of fractal-like, internal walls of ammonoid cephalopod shells represent one of the most clear evolutionary trends toward complexity in biology. [...] We hypothesize that the observed tendency is a driving force toward the evolution of the higher complexity of ammonoid septa, providing the animals with superior structural support and protection against predation. Resolving the adaptational value of this unique trait is vital to fully comprehend the intricate evolutionary trends between morphology, ecological shifts, and mass extinctions through Earth’s history. (Lemanis & Zlotnikov, 2023, "Fractal-Like Geometry as an Evolutionary Response to Predation?" _Science Advances_. 9,eadh0480. DOI:10.1126/sciadv.adh0480) <br>
 
 2021年年度最佳著作
 ------
