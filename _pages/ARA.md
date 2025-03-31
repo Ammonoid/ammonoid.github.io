@@ -15,7 +15,7 @@ The evolution of fractal-like, internal walls of ammonoid cephalopod shells repr
 ------
 1. 贝尔纳·斯蒂格勒，[1994]2012，《技术与时间：1.爱比米修斯的过失》，译林出版社.（Bernard Stiegler, _La Technique et le Temps: Tome 1. La Faute d'Epiméthée_）
 2. 塔尔科特·帕森斯，[1937]2012，《社会行动的结构》，译林出版社.（Talcott Parsons, _The Structure of Social Action_）
-3. 让-弗朗索瓦·利奥塔尔，[1979]2011，《后现代状态：关于知识的报告》.（Jean-Francois, _La condition postmoderne: rapport sur le savoir_）
+3. 让-弗朗索瓦·利奥塔尔，[1979]2011，《后现代状态：关于知识的报告》.（Jean-Francois Lyotard, _La condition postmoderne: rapport sur le savoir_）
 
 2022年年度最佳著作
 ------
