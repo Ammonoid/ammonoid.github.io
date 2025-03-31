@@ -15,11 +15,11 @@ The evolution of fractal-like, internal walls of ammonoid cephalopod shells repr
 ------
 1. 贝尔纳·斯蒂格勒，[1994]2012，《技术与时间：1.爱比米修斯的过失》，译林出版社.（Bernard Stiegler, _La Technique et le Temps: Tome 1. La Faute d'Epiméthée_）
 2. 塔尔科特·帕森斯，[1937]2012，《社会行动的结构》，译林出版社.（Talcott Parsons, _The Structure of Social Action_）
-3. 让-弗朗索瓦·利奥塔尔，[1979]2011，《后现代状态：关于知识的报告》.（Jean-Francois Lyotard, _La condition postmoderne: rapport sur le savoir_）
+3. 让-弗朗索瓦·利奥塔尔，[1979]2011，《后现代状态：关于知识的报告》.（Jean-Francois Lyotard, _La Condition Postmoderne: Rapport sur le Savoir_）
 
 2022年年度最佳著作
 ------
-1. 尼可拉斯·魯曼，[1984]2021，《社會系統：一個一般理論的大綱》，暖暖書屋.（Niklas Luhmann, _Soziale Systeme: Grundriß einer allgemeinen Theorie_）
+1. 尼可拉斯·魯曼，[1984]2021，《社會系統：一個一般理論的大綱》，暖暖書屋.（Niklas Luhmann, _Soziale Systeme: Grundriß Einer Allgemeinen Theorie_）
 2. 亚里士多德，1997，《形而上学》，商务印书馆.（Aristotle, _Metaphysics_）
 3. 卡尔·马克思，[1871]2017，《法兰西内战》，人民出版社. （Karl Marx, _The Civil War in France_）
 
