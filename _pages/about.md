@@ -38,12 +38,12 @@ Selected Translations
 
 我很希望翻译如下著作，但缺乏实质动力（=ddl），若有老师与出版社有意向合作，请与我联系：
 1. 哈里森·怀特（Harrison White）《身份与掌控：社会构成如何涌现》（_Identity and Control: How Social Formations Emerge_, Princeton University Press, 2008）
-2. 约翰·列维·马丁（John Levi Martin）的《社会行动的解释》（_The Explanation of Social Action_, Oxford University Press, 2021）
+2. 约翰·列维·马丁（John Levi Martin）《社会行动的解释》（_The Explanation of Social Action_, Oxford University Press, 2021）
 3. 约翰·列维·马丁《真善美：一种行动筑造的沉浮兴衰》（_The True, the Good, and the Beautiful: The Rise and Fall and Rise of an Architectonic for Action_, Columbia University Press, 2024）
 
 Arrangements for this Semester (2025 Spring)
 ------
-1. 我计划在《物理学哲学专题》课上撰写关于Niklas Luhmann的观察理论与量子力学测量问题的期末论文，聚焦对“不可见之物”（the unseen）的认识论问题。
+1. 我计划在《物理学哲学专题》课上撰写关于Niklas Luhmann的观察理论与量子力学测量问题的期末论文，聚焦对“不可见之物”的认识论问题。
 
 Education & Short-Term Sessions/Programs
 ------
