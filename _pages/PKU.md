@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-我将在这个页面更新我在北京大学参与过的课程（但并非所有课程）以及课程感受与测评 <br>
+我将在这个页面更新我在北京大学参与过的课程（但并非所有课程）以及课程感受与测评（我还添加了几门在外经贸读本科时对我的知识结构较重要的课程，以斜体标出） <br>
 
 写在前面——对我影响较大的老师与课程：<br>
 1.  邢亦青老师是我重要的师长和朋友。2023年秋天，我刚刚来到北大读研，他也刚刚从约翰霍普金斯大学回到国发院执教，我们每周五在承泽园相会讨论，他对我的鼓励与教导让我如沐春风。一次下课，我询问他关于我“State as Neural Networks”的想法，他鼓励我期末直接汇报这个想法。如果没有他对我的支持和信任让我着手行动并看到这项研究背后存在的问题，我的学术脉络或许不会是如今的样貌。
@@ -32,7 +32,7 @@ Psychology and Neuroscience
 ------
 1. 心理/神经/脑科学基础（Fundamental Psychology/Neurobiology/Brain Sciences）：于翔/梁希同/于佳宁/鲍平磊 <br>
 2. 认知建模基础（Introduction to Cognitive Modeling）：张航 <br>
-3. 神经建模基础（Foundations of neural modelling）：吴思 <br>
+3. 神经建模基础（Foundations of Neural Modelling）：吴思 <br>
 4. 系统神经科学（Systems Neuroscience）：周阳 <br>
 5. 学习与记忆（Learning and Memory）：李晟 <br>
 6. 脑中的节奏（Rhythms of the Brain）：罗欢 <br>
@@ -40,13 +40,21 @@ Psychology and Neuroscience
 8. 人工智能在心理学研究中的应用（AI for Psychology）：吴思 <br>
 9. 发展心理学专题（Seminar on Developmental Psychology）：苏彦捷 <br>
 
-Economics
+Economics and Business
 ------
-1. 社会与经济网络（Social and Economic Networks）：邢亦青 <br>
-2. 空间经济学（Spatial Economics）：莫家伟 <br>
-3. 高级经济增长专题（Advanced Topics in Economic Growth）：王勇 <br>
-4. 机器学习与经管研究（Machine Learning for Social Science Research）：张颖婕 <br>
-5. 大分流的政治经济学：理论和实证（The Political Economy of Great Divergence: Theories and Empirics）：郝煜 <br>
+1. _计量经济学（Econometrics）：林蔚_
+2. _博弈论（Game Theory）：王皓_
+3. _产业组织理论（Industrial Organizational Theory）：王皓_
+4. 社会与经济网络（Social and Economic Networks）：邢亦青 <br> 
+5. _发展经济学（Development Economics）：施丹/杨伟勇_
+6. 空间经济学（Spatial Economics）：莫家伟 <br>
+7. 高级经济增长专题（Advanced Topics in Economic Growth）：王勇 
+8. 大分流的政治经济学：理论和实证（The Political Economy of Great Divergence: Theories and Empirics）：郝煜 <br>
+9. _战略管理（Strategic Management）：何文龙_
+10. _高级财务管理（Advanced Corporate Finance）：汤谷良_
+11. _会计研究前沿（Frontier of Accounting Research）：刘鑫/刘思义_
+12. _实证金融（Emprical Finance）：刘津宇_
+13. 机器学习与经管研究（Machine Learning for Social Science Research）：张颖婕 <br>
 
 Philosophy
 ------
