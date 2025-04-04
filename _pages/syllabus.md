@@ -11,6 +11,17 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 ======
 我将持续更新我目前阅读的同光世至中共成立时的思想史与政治史书目（这部分以二手资料为主）： <br>
 
+一些基本性的思想指引
+------
+1. 約瑟夫-列文森，[1958-1965]2023，《儒家中國及其現代命運：三部曲》，香港中文大學出版社.（Joseph Levenson, _Confucian China and Its Modern Fate: A Trilogy_, University of California Press）
+2. 石川祯浩，[2001]2021，《中国共産党成立史》，香港中文大學出版社.（石川禎浩，《中国共産党成立史》，岩波书店）
+3. 皮耶-布赫迪厄，[1992]2016，《藝術的法則：文學場域的生成與結構》，典藏藝術家庭.（Pierre Bourdieu, _Les Règles de L'art: Genèse et Structure du Champ Littéraire_, Seuil）
+4. 皮耶-布迪厄，[2013]2022，《馬內的象徵革命：藝術場域的誕生》，群學出版有限公司.（Pierre Bourdieu, _Manet: Une Révolution Symbolique. Cours au Collège de France, 1998–2000_, Seuil）
+5. 尤尔根-哈贝马斯，[1962]1999，《公共领域的结构转型》（Jürgen Habermas, _Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft trägt_）
+6. Donald Hebb, 1949, _The Organization of Behaviour_, John Wiley & Sons.
+7. David Marr, 1982, _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_, W. H. Freeman and Company.
+8. Jerry Fodor & Massimo Piattelli-Palmarini, 2010, _What Darwin Got Wrong_, Farrar, Straus and Giroux.
+
 派系、社团与政党
 ------
 1. 林文仁，2025，《派系分合与晚清政治：1885-1898》，上海人民出版社.
@@ -32,7 +43,8 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 5. 王东杰，2021，《乡里的圣人：颜元与明清思想转型》，南京大学出版社.
 6. 本杰明-艾尔曼，[2000]2022，《晚期帝制中国的科举文化史》，社会科学文献出版社.（Benjamin Elman, _A Cultural History of Civil Examinations in Late Imperial China_, University of California Press）
 7. 宫崎市定，[1987]2023，《科举史》，海峡书局.（宮崎市定，《科挙史》，平凡社）
-8. 杨念群，2011，《儒学地域化的近代形态：三大知识群体互动的比较研究》，生活·读书·新知三联书店.
+8. 詹启华 (Lionel M. Jensen)
+9. 杨念群，2011，《儒学地域化的近代形态：三大知识群体互动的比较研究》，生活·读书·新知三联书店.
 
 张之洞（1837-1909）
 ------
