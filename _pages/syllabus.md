@@ -17,7 +17,7 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 2. 石川祯浩，[2001]2021，《中国共産党成立史》，香港中文大學出版社.（石川禎浩，《中国共産党成立史》，岩波书店）
 3. 皮耶-布赫迪厄，[1992]2016，《藝術的法則：文學場域的生成與結構》，典藏藝術家庭.（Pierre Bourdieu, _Les Règles de L'art: Genèse et Structure du Champ Littéraire_, Seuil）
 4. 皮耶-布迪厄，[2013]2022，《馬內的象徵革命：藝術場域的誕生》，群學出版有限公司.（Pierre Bourdieu, _Manet: Une Révolution Symbolique. Cours au Collège de France, 1998–2000_, Seuil）
-5. 尤尔根-哈贝马斯，[1962]1999，《公共领域的结构转型》（Jürgen Habermas, _Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft trägt_）
+5. 尤尔根-哈贝马斯，[1962]1999，《公共领域的结构转型》，学林出版社.（Jürgen Habermas, _Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft trägt_）
 6. Donald Hebb, 1949, _The Organization of Behaviour_, John Wiley & Sons.
 7. David Marr, 1982, _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_, W. H. Freeman and Company.
 8. Jerry Fodor & Massimo Piattelli-Palmarini, 2010, _What Darwin Got Wrong_, Farrar, Straus and Giroux.
