@@ -29,14 +29,15 @@ Plasticity of Organization: The Growth of CCP (1919-1924)
 3. 周育民，2023，《晚清财政与社会变迁》，浙江古籍出版社.
 4. 李细珠，2018，《地方督抚与清末新政：晚清权力格局再研究》，社会科学文献出版社.
 5. 贺喜、科大卫，2021，《秘密社会的秘密：清代的天地会与哥老会》，北京师范大学出版社.
-6. 相蓝欣，[2002]2003，《义和团战争的起源》，华东师范大学出版社.（Lanxin Xiang, _The Origins of the Boxer War: A Multinational Study_, Routledge）
-7. 柯文，[1998]2015，《历史三调：作为事件、经历和神话的义和团》，社会科学文献出版社.（Paul Cohen, _History in Three Keys: The Boxers As Event, Experience, and Myth_, Columbia University Press）
-8. 明恩溥，[1971]2021，《清帝国之乱：义和团运动与八国联军之役》，江苏人民出版社.（Arthur Smith, _China in Convulsion_, Ams Pr Inc）
-9. 张玉法，2011，《清季的立宪团体》，北京大学出版社.
-10. 桑兵，2014，《清末新知识界的社团与活动》，北京师范大学出版社.
-11. 张玉法，2004，《民国初年的政党》，岳麓书社.
-12. 张允侯等，1979，《五四时期的社团》，生活·读书·新知三联书店.
-13. 王奇生，2018，《党员、党权与党争：1924-1949年中国国民党的组织形态》，社会科学文献出版社.
+6. 周锡瑞，[1987]2021，《义和团运动的起源》，江苏人民出版社.（Joseph Esherick, _The Origins of the Boxer Uprising_, University of California Press）
+7. 相蓝欣，[2002]2003，《义和团战争的起源》，华东师范大学出版社.（Lanxin Xiang, _The Origins of the Boxer War: A Multinational Study_, Routledge）
+8. 柯文，[1998]2015，《历史三调：作为事件、经历和神话的义和团》，社会科学文献出版社.（Paul Cohen, _History in Three Keys: The Boxers As Event, Experience, and Myth_, Columbia University Press）
+9. 明恩溥，[1971]2021，《清帝国之乱：义和团运动与八国联军之役》，江苏人民出版社.（Arthur Smith, _China in Convulsion_, Ams Pr Inc）
+10. 张玉法，2011，《清季的立宪团体》，北京大学出版社.
+11. 桑兵，2014，《清末新知识界的社团与活动》，北京师范大学出版社.
+12. 张玉法，2004，《民国初年的政党》，岳麓书社.
+13. 张允侯等，1979，《五四时期的社团》，生活·读书·新知三联书店.
+14. 王奇生，2018，《党员、党权与党争：1924-1949年中国国民党的组织形态》，社会科学文献出版社.
 
 士与知识分子
 ------
