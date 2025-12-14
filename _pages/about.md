@@ -7,25 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-我目前在北京大学社会学系攻读社会学硕士，我致力于结合神经生物学、深度学习与理论生态学等领域的智识资源展开社会理论发展与历史分析。我试图将Niklas Luhmann与Harrison White的理论视作一种新联结主义（Neo-Connectionism），以此反对布尔迪厄式的规范论，从而捍卫一种过程论的规范论（Processualist Normativism）。在广义行动理论方面，我试图将元伦理学领域的道德结构与John Levi Martin近年发展的工作对齐。我当前聚焦的历史经验分析是将中国共产党视作一个平凡组织（trivial organization），探讨该组织的社会起源。
+我关注理论、知识与历史。我目前正进行的理论研究可以概括为探求当代社会理论当中已有的诸最简立场（我将立场视作可以锚定特定经验性设问的最简理论组合），并分析支撑这些立场得以运作的认识论基础。我试图说明，鉴于这些认识论基础总是可以表述为源自经验世界的一系列时间性与规范性形式，因而当下的理论发现工作可以从考察不同的时间性与规范性形式及其可能组合入手。具体而言，我识别出两种典范性的社会理论立场，分别是视角主义-位置主义（Perspectivism-Positionalism, P-P）立场以及联结主义-生态主义（Connectionism-Ecologism, C-E）立场。尽管二者并非正交，但鉴于其社会认识论基础建立于不同的时间性与规范性承诺上，的确存在实质性差别。Pierre Bourdieu的“社会神正论”与Robert Brandom的“道义计分”隐喻最显著地体现出P-P立场的实质性承诺；Niklas Luhmann的自我指涉认识论与Harrison White的混沌本体论则最突出地呈现了C-E立场的关切。
+我的经验与理论锚点在于组织与思想演化问题——事实上，思想与组织总是共同演化。在上述理论工作的基础上，我试图通过一系列由神经科学的学习与记忆研究所启发的理论框架探讨1880-1920年代中国的组织与思想演化（特别是某些思想的衰老与消亡）。具体而言，我尤其关注梁启超及其社群的自由保守主义、章太炎及其社群的文化国族主义以及盛行于随后代际的社会主义。我的硕士毕业论文聚焦于其中一个组织涌现时刻（某些共产主义小组如何经由多重力量正式化为中国共产党组织）；我计划在博士期间探讨上述思想如何在整个思想生态当中沉浮兴衰。这项研究关注中国的现代性时刻，并服务于一个关键问题：我们（作为当代中国人）在多大程度上（不）认识自己。这项历史研究并非没有理论私心——我试图在这一过程中挖掘出章太炎作为经典社会理论家的可能，从而为社会理论的寰宇主义提供洞见。
+鉴于当代社会科学的使命逐渐由描述迈向解释、由单一认识论迈向复数社会认识论，重要的是站在理论与历史的基点上反省何为复数主义。世界范围内社会理论的衰落无疑同时是幸运与不幸：一方面，理论的失焦为社会科学家提供了难得的喘息，鉴于马克思主义、帕森斯主义或布迪厄主义的分散阵营同时被反理论主义取代，理论主义者终于有机会握手言和并商讨这些“主义”的全新可能性；另一方面，由于理论作为立场的穿透力丧失在经验之海，社会科学家同小说家、报社记者、金融分析师与新媒体博主的社会分工日益模糊，社会科学无法基于自身的优势为社会历史过程的解释作出应有的贡献。这就意味着，复数主义同时面临着理论民主化的机遇与令社会科学早衰的风险（我在中性意义上使用这一概念）。我试图通过关于时间性与规范性的讨论趁乱为复数主义做出一些微薄的贡献。
 
-Research Interests
+Works in Progress （我将随后更新这些研究的扩展摘要）
 ------
-· 社会理论（Social Theory） <br>
-· 广义行动理论（General Action Theory） <br>
-· 认知社会科学（Cognitive Social Science） <br>
-· 清季民初的社会转型（Social Transformation in Late Imperial and Early Republican China）
-
-Works in Progress
-------
-1. "State as Neural Networks." （作为神经网络的国家） <br>
-这篇Proposal源于2023年秋季学期国发院邢亦青老师《社会与经济网络》课程的课程作业（我从2022年开始思考将国家视作神经网络的问题）。我试图将中国国家治理结构建模为级联理性疏忽（Cascaded Rational Inattention）的图注意力网络（Graph Atttention Network），该模型具有深刻的本体论意义。并且在该模型下，我们可以将深度学习面临的可置信性问题转译到现代官僚体系当中。
-2. "Flowing in Lineages: Robert Brandom, Social Encoding, and Hallucinations." （流淌于世系：布兰顿、社会编码与幻觉） <br>
-这篇文章源于2024年春季学期哲学系李麒麟老师《语言哲学》课程的期末论文。我试图将一组我称之为社会编码理论的思想（来自Pierre Bourdieu、Harrison White与Andrew Abbott）与Robert Brandom的推断主义进路并置，用Andrew Abbott的过程论批评Bourdieu与Brandom思想中共存的康德式规范论。最后，我通过这种过程论规范论为大语言模型的幻觉现象赋予了新的意义。
-3. "Agency: From Temporal Populism to _Aevum_ of Multiple Lineages." （能动性：从时间民粹主义到多重世系的永世）  <br>
-这篇文章源于2024年秋季学期社会学系凌鹏老师《中国社会史专题》与李康老师《社会学理论》课程的期末论文。我综合了社会学（尤其是Margaret Archer, John Levi Martin, Stephen Vaisey与Issac Reed）和行动哲学（尤其是Michael Bratman与Michael Thompson）的能动性理论，并通过对Ernst Kantorowicz“永世”观念的创造性发挥，对现有能动性理论的时间性问题展开批判，提出一种看待能动性问题的新视角。
-4. "Plasticity of Organization: The Growth of CCP (1919-1924)." （组织可塑性：中国共产党的生长(1919-1924)） <br>
-这篇文章是我的硕士毕业论文，主要在过程论规范论的语境下探讨中国共产党的社会与组织起源与最初生长。我将论证中共组织的起源如何奠定于晚清同光世以来的政治、思想与组织演化，而这些变化以代际或Abbott所说的“个体历史性”（historicality of individuals）的形式遗传在文化自组织当中。在这项研究中，我通过借鉴以“突触可塑性”为核心的来自细胞生物学与神经科学的大量理论资源，挑战社会科学对组织（organization）的认识，并挑战Pierre Bourdieu的整个理论体系。
+1. "Disentangling the Entangled Sociological Relationalism: Positionalism-Perspectivism, Connectionism-Ecologism, and the Future of Relationalism." （解缠纠缠的社会学认识论：位置主义-视角主义、联结主义-生态主义与关系论的未来）
+2. "Folds of Actions: From a Populism of Temporality to Forests of Lineages." （行动的褶皱：从时间民粹主义到世系之森）
+3. "Flowing in Lineages: Robert Brandom, Social Encoding, and LLM Hallucinations." （流淌于世系：布兰顿、社会编码与大模型幻觉）
 
 Selected Translations
 ------
@@ -36,14 +26,11 @@ Selected Translations
 5. Martin, J, L. 2009. "Social Action and Structures" in _Social Structures_ (社会结构), Princeton, NJ: Princeton University Press. （社会行动与结构） [原文](https://mp.weixin.qq.com/s/rgspB6g1Y_8rrg2A_z5APw)
 6. Korbel, J., Lindner, S., Pham, T., Hanel, R., et al. 2023. “Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework.” _Physical Review Letters_, 130:  057401. （自旋玻璃自组织框架下的同质社会群体构成） [原文](https://mp.weixin.qq.com/s/vmCaPcEG8tNJb0PBnzREpA) <br><br>
 
-我很希望翻译如下著作，但缺乏实质动力（=ddl），若有老师与出版社有意向合作，请与我联系：
+我计划于2026年起翻译如下著作，若有出版社或老师最近有相关意向，请与我联系（我可能于2026年春联系意向译丛）：
 1. 哈里森·怀特（Harrison White）《身份与掌控：社会构成如何涌现》（_Identity and Control: How Social Formations Emerge_, Princeton University Press, 2008）
-2. 约翰·列维·马丁（John Levi Martin）《社会行动的解释》（_The Explanation of Social Action_, Oxford University Press, 2021）
-3. 约翰·列维·马丁《真善美：一种行动筑造的沉浮兴衰》（_The True, the Good, and the Beautiful: The Rise and Fall and Rise of an Architectonic for Action_, Columbia University Press, 2024）
-
-Arrangements for this Semester (2025 Spring)
-------
-1. 我计划在《物理学哲学专题》课上撰写关于Niklas Luhmann的观察理论与量子力学测量问题的期末论文，聚焦对“不可见之物”的认识论问题。
+2. 艾塞克·阿里尔·里德（Isaac Ariail Reed）《现代性中的权力：代理关系与对国王二体的创造性破坏》（_Power in Modernity: Agency Relations and the Creative Destruction of the King’s Two Bodies_, University of Chicago Press, 2020）
+3. 迪佩什·查克拉巴蒂（Dipesh Chakrabarty）《一行星，诸世界：气候的视差》（_One Planet, Many Worlds: The Climate Parallax_, University of Chicago Press, 2023）
+4. 约翰·列维·马丁（John Levi Martin）《真善美：一种行动筑造的沉浮兴衰》（_The True, the Good, and the Beautiful: The Rise and Fall and Rise of an Architectonic for Action_, Columbia University Press, 2024）
 
 Education & Short-Term Sessions/Programs
 ------
