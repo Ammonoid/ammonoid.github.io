@@ -13,7 +13,7 @@ redirect_from:
 
 Works in Progress （我将随后更新这些研究的扩展摘要）
 ------
-1. "Disentangling the Entangled Sociological Relationalism: Positionalism-Perspectivism, Connectionism-Ecologism, and the Future of Relationalism." （解缠纠缠的社会学认识论：位置主义-视角主义、联结主义-生态主义与关系论的未来）
+1. "Disentangling the Entangled Sociological Relationalism: Positionalism-Perspectivism, Connectionism-Ecologism, and the Future of Relationalism." （解缠纠缠的社会学关系论：位置主义-视角主义、联结主义-生态主义与关系论的未来）
 2. "Folds of Actions: From a Populism of Temporality to Forests of Lineages." （行动的褶皱：从时间民粹主义到世系之森）
 3. "Flowing in Lineages: Robert Brandom, Social Encoding, and LLM Hallucinations." （流淌于世系：布兰顿、社会编码与大模型幻觉）
 
