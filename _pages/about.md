@@ -34,3 +34,8 @@ Selected Translations
 2. 艾塞克·阿里尔·里德（Isaac Ariail Reed）《现代性中的权力：代理关系与对国王二体的创造性破坏》（_Power in Modernity: Agency Relations and the Creative Destruction of the King’s Two Bodies_, University of Chicago Press, 2020）
 3. 迪佩什·查克拉巴蒂（Dipesh Chakrabarty）《一行星，诸世界：气候的视差》（_One Planet, Many Worlds: The Climate Parallax_, University of Chicago Press, 2023）
 4. 约翰·列维·马丁（John Levi Martin）《真善美：一种行动筑造的沉浮兴衰》（_The True, the Good, and the Beautiful: The Rise and Fall and Rise of an Architectonic for Action_, Columbia University Press, 2024）
+
+Selected Non-Academic Writings
+------
+1. 时间之森：赫布集群、突触可塑性与神经振荡（The Forest of Temporality: Hebbian Assembly, Synaptic Plasticity, and Neural Oscillations）[原文](https://mp.weixin.qq.com/s/SFtThxwg1eFmj59zYmt2tw?token=1815121953&lang=zh_CN)
+2. 蕾赛与共产主义神学（Reze and the Communist Theology）[原文](https://mp.weixin.qq.com/s/GPG7cf-tmQNnox_xL3JslQ)
